@@ -1,0 +1,6 @@
+<div class='checkmark_{{msg.payload}}'>
+    <md-tooltip>{{msg.payload}}</md-tooltip> 
+    <figure class='{{msg.payload}}'></figure>
+    <div class='checkmark_stem_{{msg.payload}}'></div>
+    <div class='checkmark_kick_{{msg.payload}}'></div>
+</div>
