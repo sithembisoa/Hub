@@ -8,4 +8,4 @@ please see the [help page](http://exercism.io).
 
 ## Source
 
-Athi Sithembiso [https://github.com/sithembisoa](https://github.com/sithembisoa)
+Athi [https://github.com/sithembisoa](https://github.com/sithembisoa)
